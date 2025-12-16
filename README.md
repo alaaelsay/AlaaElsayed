@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">🐞 Creating bugs since 2024<br>📚 Learning: Full-Stack Web Development (MERN)<br>🎯 Goals: Write clean code, solve real-world problems, and land a software role<br>🎲 Fun fact: Coffee improves my debugging skills ☕</p>
+<p align="left">🐞 Creating bugs since 2025<br>📚 Learning: Full-Stack Web Development (MERN)<br>🎯 Goals: Write clean code, solve real-world problems, and land a software role<br>🎲 Fun fact: Coffee improves my debugging skills ☕</p>
 
 ###
 
